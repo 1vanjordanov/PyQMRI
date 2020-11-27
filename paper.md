@@ -21,10 +21,10 @@ authors:
 affiliations:
  - name: Institute of Medical Engineering, Graz University of Technology, Graz, Austria
    index: 1
- - name: BioTechMed Graz
-   index: 3
  - name: Institute of eHealth, University of Applied Sciences FH JOANNEUM, Graz, Austria
    index: 2
+ - name: BioTechMed Graz
+   index: 3
 date: 15 September 2020
 bibliography: paper.bib
 
