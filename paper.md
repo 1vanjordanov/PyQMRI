@@ -14,17 +14,17 @@ authors:
     affiliation: "1"
   - name: Markus Bödenler
     orcid: 0000-0001-6018-7821
-    affiliation: "3"
+    affiliation: "1, 2"
   - name: Rudolf Stollberger
     orcid: 0000-0002-4969-3878
-    affiliation: "1, 2"
+    affiliation: "1, 3"
 affiliations:
  - name: Institute of Medical Engineering, Graz University of Technology, Graz, Austria
    index: 1
  - name: BioTechMed Graz
-   index: 2
- - name: Institute of eHealth, University of Applied Sciences FH JOANNEUM, Graz, Austria
    index: 3
+ - name: Institute of eHealth, University of Applied Sciences FH JOANNEUM, Graz, Austria
+   index: 2
 date: 15 September 2020
 bibliography: paper.bib
 
